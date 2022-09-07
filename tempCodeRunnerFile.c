@@ -1,0 +1,1 @@
+memset(&record[i],0,sizeof(STUDENT_INFO_t));
